@@ -52,7 +52,7 @@ function Description() {
       <ul>
         <li>
           <p className="label">Name</p>
-          <p className="content">Neem Tree</p>
+          <p className="content">pongamia Glabra</p>
         </li>
         <li className="right">
           <p className="label">Plant Id</p>
@@ -60,7 +60,7 @@ function Description() {
         </li>
         <li>
           <p className="label">PLANTED BY</p>
-          <p className="content">DR.A. Bakkkinathan</p>
+          <p className="content">Dr. A. Bakkkinathan</p>
         </li>
         <li className="right">
           <p className="label">Planted On</p>
@@ -68,7 +68,7 @@ function Description() {
         </li>
         <li>
           <p className="label">SCientific name</p>
-          <p className="content">Azadiratchta Indica</p>
+          <p className="content">Pongamia Glabra</p>
         </li>
         <li className="right">
           <p className="label">Rank</p>
@@ -84,7 +84,7 @@ function Description() {
         </li>
         <li className="single-colmn">
           <p className="label">ORDER</p>
-          <p className="content">Fables</p>
+          <p className="content">Fabales</p>
         </li>
         <li className="single-colmn">
           <p className="label">KINGDOM</p>
@@ -92,7 +92,7 @@ function Description() {
         </li>
         <li className="single-colmn">
           <p className="label">HIgher Classification</p>
-          <p className="content">Azadirtachta</p>
+          <p className="content">Millettia</p>
         </li>
         <li className="single-colmn">
           <p className="label">About this tree</p>
