@@ -52,7 +52,7 @@ function Description() {
       <ul>
         <li>
           <p className="label">Name</p>
-          <p className="content">pongamia Glabra</p>
+          <p className="content">Pongamia Glabra</p>
         </li>
         <li className="right">
           <p className="label">Plant Id</p>
