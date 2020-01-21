@@ -14,13 +14,13 @@ module.exports = {
     {
       resolve: `gatsby-plugin-manifest`,
       options: {
-        name: `Tree Project`,
-        short_name: `Tree Project`,
+        name: `AAI Trees `,
+        short_name: `AAI Trees`,
         start_url: `/az1122401`,
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/icon.png`
+        icon: `src/images/icon.wep`
       },
     },
     `gatsby-plugin-offline`,
